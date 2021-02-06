@@ -1,6 +1,6 @@
 # Phone Number Info 
 
-<h6>Author : Rahat Khan Tusar(rkt)</h6>
+<h6>Author : RKT)</h6>
 
 Phone-number-info is a Phone Number Information Gathering Tool.
 
