@@ -17,7 +17,6 @@ print ("+===================================+")
 print
 phone_number=raw_input("Enter a phone number(Ex:880)            :")
 country_name=raw_input("Enter a country name(Ex:BD,US,UK etc :) :")
-print ("Country                                 :"+ phone_country(phone_number))
 number = phonenumbers.parse(phone_number,country_name)
 print ("Country                                 :"+ geocoder.description_for_number(number,"en"))
 number2 = phonenumbers.parse(phone_number,country_name)
