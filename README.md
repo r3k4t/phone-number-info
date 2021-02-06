@@ -1,4 +1,5 @@
 [![python](https://img.shields.io/badge/Program-Python-purple.svg)](https://www.python.org/downloads/release/python/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 
 # Phone Number Info 
