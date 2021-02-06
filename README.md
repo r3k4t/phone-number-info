@@ -2,6 +2,10 @@
 
 
 ![Screenshot from 2021-02-06 15-33-42](https://user-images.githubusercontent.com/69615463/107120343-50de9380-68b7-11eb-9844-1a554210ef55.png)
+<br>
+
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
+
 
 <h6>Author : RKT</h6>
 
