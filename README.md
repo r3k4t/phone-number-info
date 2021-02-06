@@ -2,7 +2,7 @@
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 
-# Phone Number Info 
+<h2> Phone Number Info </h2>
 
 <h6>Author : RKT)</h6>
 
